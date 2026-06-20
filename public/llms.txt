@@ -1,0 +1,104 @@
+# LUMIÈRE — Generative Engine Optimization Map
+
+> A handcrafted Judaica store specializing in mezuzot made from crystal beads, combining traditional Jewish heritage with artisanal craftsmanship. Each piece is uniquely handmade, blending spiritual significance with decorative crystal artistry. The brand evokes a sense of elegance, spirituality, and artisan authenticity, appealing to those who appreciate both religious items and fine handmade crafts.
+
+---
+
+## Pages
+
+### בית
+https://lumi-re-696e52a5.zappy5.app
+מזוזות מחרוזי קריסטל ייחודיות המשלבות מסורת יהודית עם אומנות עכשווית. כל פריט נוצר באהבה כדי להאיר את ביתכם ברוחניות וביופי. הכניסו קדושה ואלגנטיות הביתה עוד היום.
+
+### אומנות
+https://lumi-re-696e52a5.zappy5.app/craftsmanship
+טבלו בעולם האומנות הקפדנית שלנו, שם כל מזוזה נרקמת מחרוזי קריסטל מובחרים בטכניקות מסורתיות. גלו את התשוקה והדיוק שהופכים כל יצירה ליצירת מופת רוחנית. הצטרפו למסע היצירה.
+
+### מורשת והשראה
+https://lumi-re-696e52a5.zappy5.app/heritage
+חשפו את הסיפורים והסמלים שמאחורי המזוזות שלנו, המחברים מורשת יהודית עתיקה עם אנרגיית קריסטל מרפאה. כל עיצוב נושא משמעות עמוקה להעשרת הבית. למדו כיצד מסורת פוגשת יופי.
+
+### צור קשר
+https://lumi-re-696e52a5.zappy5.app/contact
+מוכנים להזמין מזוזה ייחודית או להתייעץ על עיצוב מותאם? פנו אלינו לשיחה על אומנות קריסטל, מורשת והתאמה מושלמת לביתכם. בואו נתחיל ליצור את הקסם שלכם.
+
+### Products
+https://lumi-re-696e52a5.zappy5.app/products
+המוצרים שלנו - LUMIÈRE
+
+### Cart
+https://lumi-re-696e52a5.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://lumi-re-696e52a5.zappy5.app/checkout
+תשלום
+
+### Login
+https://lumi-re-696e52a5.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://lumi-re-696e52a5.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://lumi-re-696e52a5.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://lumi-re-696e52a5.zappy5.app/product/:slug
+פרטי המוצר - LUMIÈRE
+
+### Category
+https://lumi-re-696e52a5.zappy5.app/category/:slug
+מוצרים - LUMIÈRE
+
+### תודה רבה | Lumière
+https://lumi-re-696e52a5.zappy5.app/thank-you
+תודה שפנית ל-Lumière. ההודעה שלך התקבלה בהצלחה ומספר הפנייה שלך מופיע בדף זה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://lumi-re-696e52a5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://lumi-re-696e52a5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://lumi-re-696e52a5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LUMIÈRE
+A handcrafted Judaica store specializing in mezuzot made from crystal beads, combining traditional Jewish heritage with artisanal craftsmanship. Each piece is uniquely handmade, blending spiritual significance with decorative crystal artistry. The brand evokes a sense of elegance, spirituality, and artisan authenticity, appealing to those who appreciate both religious items and fine handmade crafts.
+
+## Target Audience
+- משפחות יהודיות ואספנים
+- קונים למתנות
+- מעצבי פנים
+
+## Industry
+Handmade Judaica & Crystal Jewelry
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://lumi-re-696e52a5.zappy5.app/sitemap.xml
+- Robots: https://lumi-re-696e52a5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://lumi-re-696e52a5.zappy5.app/llms-full.txt
+- Products (JSON): https://lumi-re-696e52a5.zappy5.app/products.json
+- Products (Google Merchant RSS): https://lumi-re-696e52a5.zappy5.app/product-feed.xml

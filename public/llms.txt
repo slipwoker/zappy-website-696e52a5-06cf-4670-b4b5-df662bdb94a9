@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://lumi-re-696e52a5.zappy5.app
+https://example.com
 מזוזות מחרוזי קריסטל ייחודיות המשלבות מסורת יהודית עם אומנות עכשווית. כל פריט נוצר באהבה כדי להאיר את ביתכם ברוחניות וביופי. הכניסו קדושה ואלגנטיות הביתה עוד היום.
 
 ### אומנות
-https://lumi-re-696e52a5.zappy5.app/craftsmanship
+https://example.com/craftsmanship
 טבלו בעולם האומנות הקפדנית שלנו, שם כל מזוזה נרקמת מחרוזי קריסטל מובחרים בטכניקות מסורתיות. גלו את התשוקה והדיוק שהופכים כל יצירה ליצירת מופת רוחנית. הצטרפו למסע היצירה.
 
 ### מורשת והשראה
-https://lumi-re-696e52a5.zappy5.app/heritage
+https://example.com/heritage
 חשפו את הסיפורים והסמלים שמאחורי המזוזות שלנו, המחברים מורשת יהודית עתיקה עם אנרגיית קריסטל מרפאה. כל עיצוב נושא משמעות עמוקה להעשרת הבית. למדו כיצד מסורת פוגשת יופי.
 
 ### צור קשר
-https://lumi-re-696e52a5.zappy5.app/contact
+https://example.com/contact
 מוכנים להזמין מזוזה ייחודית או להתייעץ על עיצוב מותאם? פנו אלינו לשיחה על אומנות קריסטל, מורשת והתאמה מושלמת לביתכם. בואו נתחיל ליצור את הקסם שלכם.
 
 ### Products
-https://lumi-re-696e52a5.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - LUMIÈRE
 
 ### Cart
-https://lumi-re-696e52a5.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://lumi-re-696e52a5.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://lumi-re-696e52a5.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://lumi-re-696e52a5.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://lumi-re-696e52a5.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://lumi-re-696e52a5.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - LUMIÈRE
 
 ### Category
-https://lumi-re-696e52a5.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - LUMIÈRE
 
 ### תודה רבה | Lumière
-https://lumi-re-696e52a5.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית ל-Lumière. ההודעה שלך התקבלה בהצלחה ומספר הפנייה שלך מופיע בדף זה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://lumi-re-696e52a5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://lumi-re-696e52a5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://lumi-re-696e52a5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Handmade Judaica & Crystal Jewelry
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://lumi-re-696e52a5.zappy5.app/sitemap.xml
-- Robots: https://lumi-re-696e52a5.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://lumi-re-696e52a5.zappy5.app/llms-full.txt
-- Products (JSON): https://lumi-re-696e52a5.zappy5.app/products.json
-- Products (Google Merchant RSS): https://lumi-re-696e52a5.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

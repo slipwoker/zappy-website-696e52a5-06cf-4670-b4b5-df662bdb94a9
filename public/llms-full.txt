@@ -2,13 +2,13 @@
 
 A handcrafted Judaica store specializing in mezuzot made from crystal beads, combining traditional Jewish heritage with artisanal craftsmanship. Each piece is uniquely handmade, blending spiritual significance with decorative crystal artistry. The brand evokes a sense of elegance, spirituality, and artisan authenticity, appealing to those who appreciate both religious items and fine handmade crafts.
 
-Source: https://lumi-re-696e52a5.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו מזוזות קריסטל בעבודת יד — LUMIÈRE
 
-URL: https://lumi-re-696e52a5.zappy5.app
+URL: https://example.com
 Description: מזוזות מחרוזי קריסטל ייחודיות המשלבות מסורת יהודית עם אומנות עכשווית. כל פריט נוצר באהבה כדי להאיר את ביתכם ברוחניות וביופי. הכניסו קדושה ואלגנטיות הביתה עוד היום.
 
 גלו מזוזות קריסטל בעבודת יד — LUMIÈRE
@@ -430,7 +430,7 @@ Description: מזוזות מחרוזי קריסטל ייחודיות המשלב�
 
 ## הציצו אל מאחורי מלאכת הקריסטל — LUMIÈRE
 
-URL: https://lumi-re-696e52a5.zappy5.app/craftsmanship
+URL: https://example.com/craftsmanship
 Description: טבלו בעולם האומנות הקפדנית שלנו, שם כל מזוזה נרקמת מחרוזי קריסטל מובחרים בטכניקות מסורתיות. גלו את התשוקה והדיוק שהופכים כל יצירה ליצירת מופת רוחנית. הצטרפו למסע היצירה.
 
 הציצו אל מאחורי מלאכת הקריסטל — LUMIÈRE
@@ -849,7 +849,7 @@ Description: טבלו בעולם האומנות הקפדנית שלנו, שם כ
 
 ## שאבו השראה ממקורות הרוח — LUMIÈRE
 
-URL: https://lumi-re-696e52a5.zappy5.app/heritage
+URL: https://example.com/heritage
 Description: חשפו את הסיפורים והסמלים שמאחורי המזוזות שלנו, המחברים מורשת יהודית עתיקה עם אנרגיית קריסטל מרפאה. כל עיצוב נושא משמעות עמוקה להעשרת הבית. למדו כיצד מסורת פוגשת יופי.
 
 שאבו השראה ממקורות הרוח — LUMIÈRE
@@ -1158,7 +1158,7 @@ Description: חשפו את הסיפורים והסמלים שמאחורי המז
 
 ## צרו קשר לקסם אישי משלכם — LUMIÈRE
 
-URL: https://lumi-re-696e52a5.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכנים להזמין מזוזה ייחודית או להתייעץ על עיצוב מותאם? פנו אלינו לשיחה על אומנות קריסטל, מורשת והתאמה מושלמת לביתכם. בואו נתחיל ליצור את הקסם שלכם.
 
 צרו קשר לקסם אישי משלכם — LUMIÈRE
@@ -1509,7 +1509,7 @@ Description: מוכנים להזמין מזוזה ייחודית או להתיי
 
 ## מוצרים
 
-URL: https://lumi-re-696e52a5.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - LUMIÈRE
 
 מוצרים - LUMIÈRE
@@ -1761,7 +1761,7 @@ Description: המוצרים שלנו - LUMIÈRE
 
 ## עגלת קניות
 
-URL: https://lumi-re-696e52a5.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - LUMIÈRE
@@ -1989,7 +1989,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://lumi-re-696e52a5.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - LUMIÈRE
@@ -2403,7 +2403,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://lumi-re-696e52a5.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - LUMIÈRE
@@ -2638,7 +2638,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://lumi-re-696e52a5.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - LUMIÈRE
@@ -3028,7 +3028,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://lumi-re-696e52a5.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - LUMIÈRE
@@ -3280,7 +3280,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://lumi-re-696e52a5.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - LUMIÈRE
@@ -3561,7 +3561,7 @@ LUMIÈRE מחויבת לשביעות רצון לקוחותיה. מדיניות �
 
 ## פרטי המוצר
 
-URL: https://lumi-re-696e52a5.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - LUMIÈRE
 
 פרטי המוצר - LUMIÈRE
@@ -3791,7 +3791,7 @@ Description: פרטי המוצר - LUMIÈRE
 
 ## מוצרים
 
-URL: https://lumi-re-696e52a5.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - LUMIÈRE
 
 מוצרים - LUMIÈRE
@@ -4045,7 +4045,7 @@ Description: מוצרים - LUMIÈRE
 
 ## מדיניות פרטיות
 
-URL: https://lumi-re-696e52a5.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4317,7 +4317,7 @@ LUMIÈRE ("החברה", "אנו", "שלנו") מחויבת להגן על פרט�
 
 ## הצהרת נגישות
 
-URL: https://lumi-re-696e52a5.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4598,7 +4598,7 @@ LUMIÈRE מחויבת להנגיש את השירותים לכלל הציבור. 
 
 ## תנאי שימוש
 
-URL: https://lumi-re-696e52a5.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -4898,7 +4898,7 @@ LUMIÈRE מספקת Handmade Judaica & Crystal Jewelry דרך האתר. השיר
 
 ## תודה רבה | Lumière
 
-URL: https://lumi-re-696e52a5.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפנית ל-Lumière. ההודעה שלך התקבלה בהצלחה ומספר הפנייה שלך מופיע בדף זה.
 
 תודה רבה | Lumière
